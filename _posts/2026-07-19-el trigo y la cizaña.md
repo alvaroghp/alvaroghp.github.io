@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Comunidad San Alfonso Boletín 298 (2026-07-19)
+author: Comunidad San Alfonso Boletín 298
 permalink: /:categories/:year/:month/:day/:title
 ---
 
