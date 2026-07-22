@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Arokemvi
+author: Álvaro
 permalink: /:categories/:year/:month/:day/:title
 ---
 
