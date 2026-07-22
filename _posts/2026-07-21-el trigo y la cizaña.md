@@ -4,7 +4,7 @@ author: Comunidad San Alfonso Boletín 298 (2026-07-19)
 permalink: /:categories/:year/:month/:day/:title
 ---
 
-La parábola del trigo y la cizaña plantea el problema de la coexistencia del bien y el mal. "Está claro: el campo es fértil y la semilla es buena; el señor del campo ha lanzado a voleo la semilla en el momento propicio; además, ha organizado una vigilancia para proteger la siembra reciente. Si después aparece la cizaña, es porque no ha habido correspondencia, porque los hombres -los cristianos especialmente- se han dormido, y han permitido que el enemigo se acercara".
+La parábola del trigo y la cizaña (Mt 13, 24-30) plantea el problema de la coexistencia del bien y el mal. "Está claro: el campo es fértil y la semilla es buena; el señor del campo ha lanzado a voleo la semilla en el momento propicio; además, ha organizado una vigilancia para proteger la siembra reciente. Si después aparece la cizaña, es porque no ha habido correspondencia, porque los hombres -los cristianos especialmente- se han dormido, y han permitido que el enemigo se acercara".
 
 Esta realidad ha de movernos a la contrición, al dolor de amor, a la reparación, pero nunca al desaliento o al pesimismo. A la vez, consideremos que ya ahora, en la tierra, el bien es mayor que el mal, la gracia más fuerte que el pecado, aunque su acción resulte a veces menos visible".
 
